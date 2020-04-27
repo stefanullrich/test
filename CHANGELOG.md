@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="0.1.0"></a>
+# [0.1.0](https://github.com/stefanullrich/test/compare/v0.0.6...v0.1.0) (2020-04-27)
+
+### Features
+
+* **test:**  foo bar [TEST-222](https://test.dev/TEST-222) ([ede411c](https://github.com/stefanullrich/test/commit/ede411c))
+
+
 <a name="0.0.6"></a>
 # [0.0.6](https://github.com/stefanullrich/test/compare/v0.0.5...v0.0.6) (2020-04-27)
 
