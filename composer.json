@@ -9,6 +9,12 @@
       "url": "../standard-version"
     }
   ],
+  "extra": {
+    "decaf/standard-version": {
+      "ticket-url": "https://test.dev",
+      "tag-prefix": "v"
+    }
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
