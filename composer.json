@@ -1,0 +1,14 @@
+{
+  "name": "decaf/test",
+  "require": {
+    "decaf/standard-version": "@dev"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../standard-version"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

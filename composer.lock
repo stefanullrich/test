@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7cdb7a411053ff5dcd24ecc1b19a637b",
+    "packages": [
+        {
+            "name": "decaf/standard-version",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "../standard-version",
+                "reference": "f488afd693530151f33d10748fd8236b58228c2f"
+            },
+            "require": {
+                "composer-plugin-api": "^1.1"
+            },
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Decaf\\StandardVersion\\Composer\\Plugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "Decaf\\StandardVersion\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Stefan Ullrich",
+                    "email": "su@decaf.de"
+                }
+            ],
+            "description": "Composer standard-version package",
+            "keywords": [
+                "composer",
+                "decaf",
+                "standard-version"
+            ],
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "decaf/standard-version": 20
+    },
+    "prefer-stable": true,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
